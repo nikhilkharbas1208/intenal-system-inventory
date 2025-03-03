@@ -1,0 +1,52 @@
+{
+    "hardware":{
+        "id":"1001",
+        "name":"Hardware",
+        "items":[
+            {
+                "id":"2001",
+                "name":"Laptop",
+                "items":[
+                    {
+                        "id":"",
+                        "name":"Dell Laptop",
+                        "barcode":"abcd",
+                        "description":"",
+                        "isAssigned":false,
+                        "assigneeName":""
+                    },
+                    {
+                        "id":"",
+                        "name":"HP Laptop",
+                        "barcode":"xyz",
+                        "description":"",
+                        "isAssigned":true,
+                        "assigneeName":"Nikhil Kharbas"
+                    }
+                ],
+                "AvailableStocks":1
+            },
+            {
+                "id":"2002",
+                "name":"Keyboard",
+                "items":[
+                    {
+                        "id":"",
+                        "name":"Dell Keyboard",
+                        "barcode":"abcd",
+                        "description":"",
+                        "isAssigned":false,
+                        "assigneeName":""
+                    }
+                ],
+                "AvailableStocks":1
+            }
+        ]
+    },
+    "software":{
+        "id":"",
+        "name":"",
+        "items":[],
+        "description":""
+    }
+}

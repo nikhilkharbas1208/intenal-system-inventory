@@ -13,7 +13,7 @@ const HeaderComponent = () => (
         Dashboard
       </Link>
       <Link to="ticket" className={styles.navItem}>
-        Ticket1
+        Ticket
       </Link>
       <Link to="addinventory" className={styles.navItem}>
         Add Inventory

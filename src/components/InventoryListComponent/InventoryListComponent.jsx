@@ -22,7 +22,7 @@ const InventoryListComponent = () => {
                 )}
               </span>
             </div>
-            <span>{inventory?.description}</span>
+            {/* <span>{inventory?.description}</span> */}
           </>
         ) : (
           <h4>
